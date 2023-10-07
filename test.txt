@@ -1,0 +1,1 @@
+Testing the git writing on line one of a text file
